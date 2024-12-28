@@ -11,3 +11,12 @@ $ ./monerod
 ``` python
 print("getmonero.org")
 ```
+
+##### Monero
+- [X] Private
+- [X] Secure
+- [X] Fungible
+- [X] And many more...
+
+##### Things to do:
+- [ ] Getting Monero ASAP
